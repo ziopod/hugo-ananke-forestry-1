@@ -2,17 +2,16 @@
 date = 2021-01-14T14:43:54Z
 description = "Nous Contacter"
 disable_share = true
-featured_image = "/images/video-reseaux-sociaux-2020jpg.jpg"
+featured_image = "/images/video-social-media.jpg"
 tags = ["scene", "Aldric galhaut", "Man's Beard", "WBMC"]
 title = "Réalisation de Vidéos"
 
 +++
-
-**# La vidéo Promotionnelle, l’avenir de de la communication digitale !**
+**La vidéo Promotionnelle, l’avenir de de la communication digitale !**
 
 Cette stratégie de communication percutante, t’apportera une visibilité incontournable, ce qui est essentielle pour exister aujourd’hui dans le monde du digital. Dans le marketing, il est important d’apporter de l’émotion à nos prospects afin de faire ressortir leurs sentiments cachés (ndlr) « à retrouver dans notre article » -> (maillage interne) (#)
 
-**## Pourquoi La communication doit être adoptée ?**
+**Pourquoi La communication doit être adoptée ?**
 
 * La vidéo est le moyen de communication le plus attractif
 * Des chiffres qui parlent !
@@ -21,39 +20,33 @@ Cette stratégie de communication percutante, t’apportera une visibilité inco
 * La vidéo et le référencement naturel de ton site
 * La vidéo est « Mobile-Friendly »
 
-**## Comment élaborer ta stratégie vidéo ?**
+**Comment élaborer ta stratégie vidéo ?**
 
 * Définis tes objectifs
 * Choisir les plateformes où tu les diffusera
 * Le bon format pour plus d’impact
 
-**## Matériels et Logiciels de création videos Marketing**
+**Matériels et Logiciels de création videos Marketing**
 
 * Quels sont les logiciels à utiliser ?
 
-**## Conclusion**
+**Conclusion**
 
-**## Pourquoi La communication doit être adoptée ?**
+**Pourquoi La communication doit être adoptée ?**
 
-**### La vidéo est le moyen de communication le plus attractif**
+**La vidéo est le moyen de communication le plus attractif**
 
 Si une image vaut mille mots, une vidéo bien Préparé provoque encore plus d’engagement au près des internautes.
 
 Ce succès est dû, au faite que l’internaute se permet de faire bien moins d’efforts : il favorise donc le visionnage rapide d’une vidéo plutôt qu’à la lecture d’un article plus long et chronophage.
 
-**### Des chiffres qui parlent !**
+**Des chiffres qui parlent !**
 
 **«** 80 % des visiteurs regardent une vidéo, alors que seuls 20 % lisent le contenu du site. »
 
-source : [ilestunefois.com](http://ilestunefois.com)
-
-[**1606815259-dkd5uk3w4aaxfdh.jpg**](https://www.datocms-assets.com/17507/1606815259-dkd5uk3w4aaxfdh.jpg)
-
-\* Source : [lueurexterne.com](http://lueurexterne.com) *
-
 De plus, la video promotionnelle encourage la créativité et le storytelling : tu véhicules plus d’émotions (joie, crainte, rire) tout en faisant ta promotion, ce qui met tout de suite en valeur ton image de marque et suscites forcement plus d’engagement et d’intérêt.
 
-**### La Vidéo et ta Notoriété**
+**La Vidéo et ta Notoriété**
 
 La vidéo et le genre de contenue le plus partagé sur les réseaux sociaux. En effet, elle génère en moyenne 30% d’interactions en plus qu’une photo et 2 fois plus de partage. Tu constateras que le taux d'engagement moyen d’une vidéo sur Facebook et de 6 %, contrairement à un poste avec une photo qui s’élève lui à seulement 4,8 %.
 
@@ -61,13 +54,13 @@ Promouvoir une marque ou un produit par la vidéo sur les médias sociaux, favor
 
 ![](https://comarketing-news.fr/wp-content/uploads/video-social-media.jpg)
 
-**### La vidéo convertira plus facilement tes prospects en clients**
+**La vidéo convertira plus facilement tes prospects en clients**
 
 Les chiffres ne trompent pas : un e-mail avec le mot «vidéo» en objet augmente son taux d’ouverture de 19 % ainsi que son taux de clic de plus de 60%.
 
 En rendant ton message plus facile à lire, la vidéo promotionnelle génère alors un impact très positif sur les intentions d’achat de ton future client. Le format vidéo augmente la crédibilité de ton produit ou de ta marque auprès de tes prospects et de tes clients.
 
-Prenom l’exemple d’un témoignage client qui aurait été interviewé, cette vidéo générera une plus value très importante sur la confiance des consommateurs.
+Prenons l’exemple d’un témoignage client qui aurait été interviewé, cette vidéo générera une plus value très importante sur la confiance des consommateurs.
 
 ![](https://clipchamp.com/static/dd31a7c4538b6a24663c1be1b5d955e9/clipchamp-video-ecommerce.jpg)
 
@@ -90,7 +83,7 @@ Pour optimiser le référencement naturel de tes vidéos sur YouTube on te conse
 
 ![](https://www.agence90.fr/wp-content/uploads/2019/02/SEO-Youtube.png)
 
-**### La vidéo est « Mobile-Friendly »**
+**La vidéo est « Mobile-Friendly »**
 
 Nous regardons des vidéos ou consultons nos réseaux sociaux beaucoup plus souvent sur notre smartphone et cela loin devant par rapport aux ordinateur. Que ce soit pendant une pause au travail, au réveil, dans les transport en commun, même jusqu’au toilette. Le smartphone et devenue un objet indispensable pour tout le monde. Le visionnage de video sur internet augmente de plus en plus chaque jours allant jusqu’a 400 heures de videos uplaodées par minutes sur YouTube, pour ne pas dire que c’est énorme.
 
@@ -98,13 +91,13 @@ Sur mobile la lecture d’une video et d’une simplicité incroyable. Pour preu
 
 ![](https://cdn.searchenginejournal.com/wp-content/uploads/2017/09/62FC5A47-F6C0-484D-98ED-EEFC42CDECE9-760x400.jpeg)
 
-**## Comment élaborer ta stratégie vidéo ?**
+**Comment élaborer ta stratégie vidéo ?**
 
 Tu dois êtres maintenant convaincus de l’impacte de la communication vidéo, mais tu ne sais pas trop par où commencer ! Ne t’en fais pas tes Marketeux sont là pour ça !
 
 Voici chaque étapes clefs pour ta stratégie de vidéo marketing :
 
-**### Définis tes objectifs**
+**Définis tes objectifs**
 
 La vidéo te servira dans plusieurs objectifs, qui seront à déterminer en fonction de ton entreprise et bien entendue de ta stratégie de développement :
 
@@ -122,16 +115,14 @@ Ah ! Je pense que là tu de demande, comment tu peux identifier les bonnes perso
 
 Ne t’en fais pas tes marketeux on écris un cours sur cela -> (Maillage interne) (#)
 
-**### Choisir les plateformes où tu les diffusera**
+**Choisir les plateformes où tu les diffusera**
 
 Comprendre le parcours de ton client, te permettra alors de choisir la meilleur plateforme adapter au contenu que tu souhaite diffuser.
 
 * **YouTube** reste largement la plateforme ou tu pourra non seulement héberger mais aussi diffuser toutes tes vidéos ( avec presque 2 milliard de personnes ). Hébergée par Google, elle sera en plus propice pour ton référencement Naturel dans les résultats de recherches.
 * **Facebook**, **Twitter**, **LinkedIn**, **Instagram**... et bien d’autres, tu pour y partager directement ou y partager une video de YouTube afin, de rendre viral ton contenue et d’élargir ta diffusion. Rapide et efficace.
 
-[Comment-diffuser-vos-contenus-de-blog-sur-vos-réseaux-sociaux.jpg](https://www.webconversion.fr/wp-content/uploads/2018/02/Comment-diffuser-vos-contenus-de-blog-sur-vos-r%C3%A9seaux-sociaux.jpg)
-
-**###Le bon format pour plus d’impact**
+**Le bon format pour plus d’impact**
 
 Le message que tu souhaites diffuser, doit être adapter au format que tu utilisera ainsi que les moyens que tu as aussi en ta possession pour réaliser ta vidéo.
 
@@ -178,5 +169,3 @@ Tu auras donc compris que la vidéo et un outils très percutant mais cela deman
 Maintenant te voilà prêt à préparer une vidéo promotionnelle et passer au prochain cours, le montage vidéo.
 
 A bientôt
-
-Tes marketeux :)
