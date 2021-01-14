@@ -33,9 +33,3 @@ params:
   background_color_class: bg-White
   featured_image: "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number: 2
-menu:
-  main:
-  - name: Blog
-    weight: 3
-  - name: Qui sommes nous
-    weight: 2

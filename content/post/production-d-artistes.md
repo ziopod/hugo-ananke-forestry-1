@@ -5,6 +5,9 @@ disable_share = true
 featured_image = "/images/yellow-and-green-gadget-business-facebook-cover-2.png"
 tags = ["scene", "Aldric galhaut", "Man's Beard", "WBMC"]
 title = "Réalisation de Vidéos"
+[menu.main]
+name = "Qui sommes nous"
+weight = 2
 
 +++
 ![](/images/video-reseaux-sociaux-2020jpg.jpg)
