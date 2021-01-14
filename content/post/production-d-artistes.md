@@ -52,13 +52,13 @@ Ce succès est dû, au fait que l'internaute se permet de faire bien moins d'eff
 
 ![](/images/informations-analitiques.jpg)
 
-De plus, la vidéo promotionnelle encourage la créativité et le storytelling: tu véhicules plus d'émotions (joie, crainte, rire) tout en faisant ta promotion, ce qui met tout de suite en valeur ton image de marque et suscites forcement plus d ' engagement et d'intérêt.
+De plus, la vidéo promotionnelle encourage la créativité et le storytelling: tu véhicules plus d'émotions (joie, crainte, rire) tout en faisant ta promotion, ce qui met tout de suite en valeur ton image de marque et suscites forcement plus d'engagement et d'intérêt.
 
 **La Vidéo et ta Notoriété**
 
 La vidéo et le genre de contenue le plus partagé sur les réseaux sociaux. En effet, elle génère en moyenne 30% d'interactions en plus qu'une photo et 2 fois plus de partage. Tu constateras que le taux d'engagement moyen d'une vidéo sur Facebook et de 6%, contrairement à un poste avec une photo qui s'élève à seulement 4,8%.
 
-Promouvoir une marque ou un produit par la vidéo sur les médias sociaux, favorise la viralitée de ton contenu, ainsi que ta notoriété.
+Promouvoir une marque ou un produit par la vidéo sur les médias sociaux, favorise la viralité de ton contenu, ainsi que ta notoriété.
 
 ![](https://comarketing-news.fr/wp-content/uploads/video-social-media.jpg)
 
@@ -101,7 +101,7 @@ Sur mobile la lecture d'une vidéo et d'une simplicité incroyable. Pour preuve,
 
 **Comment élaborer une stratégie vidéo?**
 
-Tu dois être maintenant convaincus de l'impacte de la communication vidéo, mais tu ne sais pas trop par où commencer! Ne t'en fais pas tes Marketeux sont là pour ça!
+Tu dois être maintenant convaincus de l'impacte de la communication vidéo, mais tu ne sais pas trop par où commencer! Ne t'en fais People Story est la !
 
 Voici chaque étapes clefs pour ta stratégie de marketing vidéo:
 
@@ -121,8 +121,6 @@ Sois efficace. Tu n'as pas besoin d'aller chercher des millions de vues. Vas à 
 
 Ah! Je pense que là tu de demande, comment tu peux identifier les bonnes personnes?
 
-Ne t'en fais pas tes marketeux sur Écris un cours sur cela -> (Maillage interne) (#)
-
 **Choisir les plateformes où tu les diffusera**
 
 Comprendre le parcours de ton client, tu veux alors choisir la meilleure plateforme adaptateur au contenu que tu souhaite diffuseur.
@@ -134,7 +132,7 @@ Comprendre le parcours de ton client, tu veux alors choisir la meilleure platefo
 
 **Le bon format pour plus d'impact**
 
-Le message que tu souhaites diffuseur, doit être adaptateur au format que tu utilisera ainsi que les moyens que tu as aussi en ta possession pour réaliser ta vidéo.
+Le message que tu souhaites diffuser, doit être adapté au format que tu utilisera ainsi que les moyens que tu as aussi en ta possession pour réaliser ta vidéo.
 
 Voici par exemple deux formats que tu peux mettre en place:
 
@@ -145,7 +143,7 @@ Toute fois, on te recommande:
 
 * Fait attention à la qualité. Le Cadrage et le son doivent être irréprochable. Si tes moyens de réalisation sont moins souhaitables pas à mettre par exemple une musique par exemple plutôt qu'une vois de mauvaise qualité d'enregistrement.
 * Choisis des vidéos courtes. Les consommateurs sont de plus en plus pressés. Tu dois donc favorisé un message percutant en étant bref et concis.
-* Penses compatibles avec les mobiles. On fonction de la plateforme que tu choisis, privilégie la verticalité, le carré ou le format paysages. N'oublie pas les sous titre ou si il n'y en a pas, le message que tu souhaite passer est-il compréhensible sans le son? Car plusieurs utilisateurs utilisent leur smartphone dans les transports en commun ou dans des lieux plutôt bruyant couvrant complètement le son de leur mobile.
+* Penses compatibles avec les mobiles. On fonction de la plateforme que tu choisis, privilégie la verticalité, le carré ou le format paysages. N'oublie pas les sous titre ou si il n'y en a pas, le message que tu souhaite passer est-il compréhensible sans le son ? Car plusieurs utilisateurs utilisent leur smartphone dans les transports en commun ou dans des lieux plutôt bruyant couvrant complètement le son de leur mobile.
 * Utilisez les Emotion. Afin d'améliorer ton expérience client, tes vidéos seront bien plus importantes si véhicule des émotions, en jouant sur l'humour, l'amour ou la peur par exemple.
 
 ![](/images/comment-faire-une-video-verticale-visuel-clef-e1561212634347.jpg)
@@ -157,7 +155,7 @@ Pour débuter, pas besoin de t'équiper comme une production hollywoodienne. Tu 
 * un smartphone nouvelle génération,
 * un appareil photo ou une caméra HD,
 * un trépied,
-* un stabilisateur ou un cardan pour stabilizer l'image naturellement,
+* un stabilisateur ou un cardan pour stabiliser l'image naturellement,
 * un micro, cravate ou mono directionnelle
 * de l'éclairage si tournage en intérieur.
 * un fond vert si tu souhaites faire de l'incrustation
@@ -168,7 +166,7 @@ Pour débuter, pas besoin de t'équiper comme une production hollywoodienne. Tu 
 
 Rassures toi, tous les logiciels ne sont pas payants et certains sont même gratuits et plutôt très performants. Tu peux les télécharger gratuitement sur ton smartphone, comme iMovie sur apple ou Movie Maker studio sur windows.
 
-Si tu es plus expérimenté, je t'invite en tant que diriger vers c'est deux logiciel professionnel et complet en réalisation utiliser par les grandes productions: Adobe Première et Final Cut Pro pour le montage vidéo, et Adobe After Effect pour les effets spéciaux .
+Si tu es plus expérimenté, je t'invite à te diriger vers c'est deux logiciel professionnel et complet en réalisation, utilisés par nous même : Adobe Première et Final Cut Pro pour le montage vidéo, et Adobe After Effect pour les effets spéciaux .
 
 ![](/images/bdw-logiciel-montage-video-5-800x400.jpg)
 
@@ -176,6 +174,10 @@ Si tu es plus expérimenté, je t'invite en tant que diriger vers c'est deux log
 
 Tu auras donc compris que la vidéo et un outil très percutant mais cela demande une stratégie bien travaillée en amont et quelques connaissances sur le sujet.
 
-Maintenant vous voilà prêt à préparer une vidéo promotionnelle et passer au prochain cours, le montage vidéo.
+Maintenant te voilà prêt à réaliser une vidéo promotionnelle et passer au prochain cours, le montage vidéo.
 
 À bientôt
+
+Article proposé par :
+
+Raphaël RICHARD ©
