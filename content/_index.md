@@ -8,6 +8,6 @@ menu:
     weight: 2
 
 ---
-Véritable passionné en création de vidéos (Filmmaker) dans les médias et les réseaux sociaux à travers la communication digitale.  
-Dans la continuité d'action d'un mouvement mondiale en pleine évolution, dans lequel vous et moi évoluons, la E-réputation des entreprises devient une étape cruciale pour ce faire connaitre.  
-Grace au digital, nous développerons notre avenir.
+Véritable passionné en création de vidéos (Cinéaste) dans les médias et les réseaux sociaux à travers la communication digitale.   
+Dans la continuité d'action d'un mouvement mondial en pleine évolution, dans lequel vous et moi évoluons, la E-réputation des entreprises devient une étape cruciale pour ce faire connaitre.   
+Grace au digital, nous développons notre avenir.
