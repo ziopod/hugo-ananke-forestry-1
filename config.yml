@@ -31,7 +31,7 @@ params:
   stackoverflow: ''
   rss: ''
   body_classes: "poppin White"
-  site_logo: "images/4201f8_3498a615dcb0436c803a6716aaff73a8~mv2.png"
+  site_logo: "images/PEOPLE.png"
   background_color_class: bg-White
   featured_image: /images/gohugo-default-sample-hero-image.jpg
   recent_posts_number: 2
