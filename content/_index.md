@@ -1,6 +1,6 @@
 ---
 title: 'People Story '
-featured_image: "/images/sans-titre-3.png"
+featured_image: "/images/yellow-and-green-gadget-business-facebook-cover-2.png"
 description: 'community manager '
 menu:
   main:
