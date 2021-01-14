@@ -2,6 +2,7 @@
 date = 2021-01-14T14:43:54Z
 description = "Nous Contacter"
 disable_share = true
+draft = true
 featured_image = "/images/yellow-and-green-gadget-business-facebook-cover-2.png"
 tags = ["scene", "Aldric galhaut", "Man's Beard", "WBMC"]
 title = "Réalisation de Vidéos"
@@ -178,6 +179,6 @@ Maintenant te voilà prêt à réaliser une vidéo promotionnelle et passer au p
 
 À bientôt
 
-Article proposé par :
-
-Raphaël RICHARD ©
+> Article proposé par :
+>
+> Raphaël RICHARD ©
