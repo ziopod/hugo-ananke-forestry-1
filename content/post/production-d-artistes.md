@@ -9,48 +9,50 @@ title = "Réalisation de Vidéos"
 +++
 ![](/images/video-reseaux-sociaux-2020jpg.jpg)
 
-**La vidéo Promotionnelle, l’avenir de de la communication digitale !**
+**La vidéo Promotionnelle, l'avenir de la communication numérique!**
 
-Cette stratégie de communication percutante, t’apportera une visibilité incontournable, ce qui est essentielle pour exister aujourd’hui dans le monde du digital. Dans le marketing, il est important d’apporter de l’émotion à nos prospects afin de faire ressortir leurs sentiments cachés.
+Cette stratégie de communication percutante, t'apportera une visibilité incontournable, ce qui est essentiel pour exister aujourd'hui dans le monde du numérique. Dans le marketing, il est important d'apporter de l'émotion à nos prospects afin de faire ressortir leurs sentiments cachés.
 
-#### **_Lexique de L'article :_**
+#### **_Lexique de l'article:_**
 
-**Pourquoi La communication doit être adoptée ?**
+**Pourquoi La communication doit être adoptée?**
 
 * La vidéo est le moyen de communication le plus attractif
-* Des chiffres qui parlent !
+* Des chiffres qui parlent!
 * La Vidéo et ta Notoriété
-* La video convertira plus facilement tes prospects en clients
+* La video convertira plus facilement tes prospects et clients
 * La vidéo et le référencement naturel de ton site
-* La vidéo est « Mobile-Friendly »
+* La vidéo est «Mobile-Friendly»
 
-**Comment élaborer ta stratégie vidéo ?**
+**Comment élaborer une stratégie vidéo?**
 
 * Définis tes objectifs
 * Choisir les plateformes où tu les diffusera
-* Le bon format pour plus d’impact
+* Le bon format pour plus d'impact
 
-**Matériels et Logiciels de création videos Marketing**
+**Matériels et Logiciels de création vidéos Marketing**
 
-* Quels sont les logiciels à utiliser ?
+* Quels sont les logiciels à utiliser?
 
 **Conclusion**
 
-**Pourquoi La communication doit être adoptée ?**
+***
+
+**Pourquoi La communication doit être adoptée?**
 
 **La vidéo est le moyen de communication le plus attractif**
 
-Si une image vaut mille mots, une vidéo bien Préparé provoque encore plus d’engagement au près des internautes.
+Si une image vaut mille mots, une vidéo bien Préparé provoque encore plus d'engagement au près des internautes.
 
-Ce succès est dû, au faite que l’internaute se permet de faire bien moins d’efforts : il favorise donc le visionnage rapide d’une vidéo plutôt qu’à la lecture d’un article plus long et chronophage.
+Ce succès est dû, au fait que l'internaute se permet de faire bien moins d'efforts: il favorise donc le visionnage rapide d'une vidéo plutôt qu'à la lecture d'un article plus long et chronophage.
 
-**Des chiffres qui parlent !**
+**Des chiffres qui parlent!**
 
-**«** 80 % des visiteurs regardent une vidéo, alors que seuls 20 % lisent le contenu du site. »
+**«** 80% des visiteurs regardent une vidéo, alors que seuls 20% lisent le contenu du site. »
 
 ![](/images/informations-analitiques.jpg)
 
-De plus, la video promotionnelle encourage la créativité et le storytelling : tu véhicules plus d’émotions (joie, crainte, rire) tout en faisant ta promotion, ce qui met tout de suite en valeur ton image de marque et suscites forcement plus d’engagement et d’intérêt.
+De plus, la vidéo promotionnelle encourage la créativité et le storytelling: tu véhicules plus d'émotions (joie, crainte, rire) tout en faisant ta promotion, ce qui met tout de suite en valeur ton image de marque et suscites forcement plus d ' engagement et d'intérêt.
 
 **La Vidéo et ta Notoriété**
 
@@ -164,16 +166,16 @@ Pour débuter, pas besoin de t’équiper comme une production hollywoodienne. T
 
 **Quels sont les logiciels à utiliser ?**
 
-Rassures toi, tous les logiciels ne sont pas payant et certain sont même gratuit et plutôt très performant. Tu peux les télécharger gratuitement sur ton smartphone, comme iMovie sur apple ou Movie Maker studio sur windows.
+Rassures toi, tous les logiciels ne sont pas payants et certains sont même gratuits et plutôt très performants. Tu peux les télécharger gratuitement sur ton smartphone, comme iMovie sur apple ou Movie Maker studio sur windows.
 
-Si tu es plus expérimenté, je t’invite as te diriger vers c’est deux logiciel professionnelle et complet en réalisation utiliser par les grande production : Adobe Première et Final Cut Pro pour le montage vidéo, et Adobe After Effect pour les effets spéciaux.
+Si tu es plus expérimenté, je t'invite en tant que diriger vers c'est deux logiciel professionnel et complet en réalisation utiliser par les grandes productions: Adobe Première et Final Cut Pro pour le montage vidéo, et Adobe After Effect pour les effets spéciaux.
 
 ![](/images/bdw-logiciel-montage-video-5-800x400.jpg)
 
 **Conclusions**
 
-Tu auras donc compris que la vidéo et un outils très percutant mais cela demande une stratégies bien travaillée en amont et quelques connaissances sur le sujet.
+Tu auras donc compris que la vidéo et un outil très percutant mais cela demande une stratégie bien travaillée en amont et quelques connaissances sur le sujet.
 
-Maintenant te voilà prêt à préparer une vidéo promotionnelle et passer au prochain cours, le montage vidéo.
+Maintenant vous voilà prêt à préparer une vidéo promotionnelle et passer au prochain cours, le montage vidéo.
 
-A bientôt
+À bientôt
