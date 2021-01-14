@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: "/images/yellow-and-green-gadget-business-facebook-cover.png"
+featured_image: "/images/4201f8_3498a615dcb0436c803a6716aaff73a8-mv2.png"
 omit_header_text: true
 description: Nous Contacter
 type: page
