@@ -4,4 +4,6 @@ featured_image: "/images/sans-titre-3.png"
 description: 'community manager '
 
 ---
-Bienvenue sur mon blog avec certains de mes travaux en cours. J'ai travaillé sur cette idée de livre. Vous pouvez lire certains des chapitres ci-dessous.
+Véritable passionné de création de vidéos (Filmmaker) dans les médias et les réseaux sociaux à travers la communication digitale.  
+Dans la continuité d'action d'un mouvement mondiale en pleine évolution, dans lequel vous et moi évoluons, la E-réputation des entreprises devient une étape cruciale pour ce faire connaitre.   
+Grace au digital, nous développerons notre avenir.
