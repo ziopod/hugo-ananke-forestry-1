@@ -1,6 +1,6 @@
 ---
 title: 'People Story '
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/yellow-and-green-gadget-business-facebook-cover.png"
 description: 'community manager '
 menu:
   main:
