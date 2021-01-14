@@ -1,7 +1,7 @@
 ---
 title: Contact
 featured_image: "/images/people-story-2.png"
-omit_header_text: true
+omit_header_text: false
 description: Nous Contacter
 type: page
 menu:
