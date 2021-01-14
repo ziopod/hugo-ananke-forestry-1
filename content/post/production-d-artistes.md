@@ -2,11 +2,13 @@
 date = 2021-01-14T14:43:54Z
 description = "Nous Contacter"
 disable_share = true
-featured_image = "/images/video-social-media.jpg"
+featured_image = "/images/informations-analitiques.jpg"
 tags = ["scene", "Aldric galhaut", "Man's Beard", "WBMC"]
 title = "Réalisation de Vidéos"
 
 +++
+![](/images/video-reseaux-sociaux-2020jpg.jpg)
+
 **La vidéo Promotionnelle, l’avenir de de la communication digitale !**
 
 Cette stratégie de communication percutante, t’apportera une visibilité incontournable, ce qui est essentielle pour exister aujourd’hui dans le monde du digital. Dans le marketing, il est important d’apporter de l’émotion à nos prospects afin de faire ressortir leurs sentiments cachés (ndlr) « à retrouver dans notre article » -> (maillage interne) (#)
@@ -43,6 +45,8 @@ Ce succès est dû, au faite que l’internaute se permet de faire bien moins d�
 **Des chiffres qui parlent !**
 
 **«** 80 % des visiteurs regardent une vidéo, alors que seuls 20 % lisent le contenu du site. »
+
+![](/images/informations-analitiques.jpg)
 
 De plus, la video promotionnelle encourage la créativité et le storytelling : tu véhicules plus d’émotions (joie, crainte, rire) tout en faisant ta promotion, ce qui met tout de suite en valeur ton image de marque et suscites forcement plus d’engagement et d’intérêt.
 
