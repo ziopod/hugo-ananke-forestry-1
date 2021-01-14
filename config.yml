@@ -30,7 +30,7 @@ params:
   slack: ''
   stackoverflow: ''
   rss: ''
-  body_classes : "baskerville"
+  body_classes: "baskerville"
   site_logo: "people-story-2.png"
   background_color_class: bg-black
   featured_image: /images/gohugo-default-sample-hero-image.jpg
