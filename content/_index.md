@@ -5,7 +5,7 @@ description: 'community manager '
 menu:
   main:
     name: Accueil
-    weight: 2
+    weight: 1
 
 ---
 Véritable passionné en création de vidéos (Cinéaste) dans les médias et les réseaux sociaux à travers la communication digitale.   

@@ -6,7 +6,7 @@ description: Nous Contacter
 type: page
 menu:
   main:
-    weight: 1
+    weight: 2
 
 ---
 Ceci est un exemple de shortcode personnalisé que vous pouvez insérer directement dans votre contenu. Vous devez ajouter une action de formulaire au shortcode pour le faire fonctionner. Découvrez Formspree pour un service de formulaire simple et gratuit.
