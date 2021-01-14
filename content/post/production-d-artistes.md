@@ -11,7 +11,9 @@ title = "Réalisation de Vidéos"
 
 **La vidéo Promotionnelle, l’avenir de de la communication digitale !**
 
-Cette stratégie de communication percutante, t’apportera une visibilité incontournable, ce qui est essentielle pour exister aujourd’hui dans le monde du digital. Dans le marketing, il est important d’apporter de l’émotion à nos prospects afin de faire ressortir leurs sentiments cachés (ndlr) « à retrouver dans notre article » -> (maillage interne) (#)
+Cette stratégie de communication percutante, t’apportera une visibilité incontournable, ce qui est essentielle pour exister aujourd’hui dans le monde du digital. Dans le marketing, il est important d’apporter de l’émotion à nos prospects afin de faire ressortir leurs sentiments cachés.
+
+#### **_Lexique de L'article :_**
 
 **Pourquoi La communication doit être adoptée ?**
 
