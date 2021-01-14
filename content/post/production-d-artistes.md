@@ -126,6 +126,8 @@ Comprendre le parcours de ton client, te permettra alors de choisir la meilleur 
 * **YouTube** reste largement la plateforme ou tu pourra non seulement héberger mais aussi diffuser toutes tes vidéos ( avec presque 2 milliard de personnes ). Hébergée par Google, elle sera en plus propice pour ton référencement Naturel dans les résultats de recherches.
 * **Facebook**, **Twitter**, **LinkedIn**, **Instagram**... et bien d’autres, tu pour y partager directement ou y partager une video de YouTube afin, de rendre viral ton contenue et d’élargir ta diffusion. Rapide et efficace.
 
+![](/images/comment-diffuser-vos-contenus-de-blog-sur-vos-reseaux-sociaux.jpg)
+
 **Le bon format pour plus d’impact**
 
 Le message que tu souhaites diffuser, doit être adapter au format que tu utilisera ainsi que les moyens que tu as aussi en ta possession pour réaliser ta vidéo.
@@ -142,9 +144,9 @@ Toute fois, on te recommande :
 * Penses mobile-friendly. On fonction de la plateforme que tu choisis, privilégie la verticalité, le carré ou le format paysages. N’oublie pas les sous titre ou si il n’y en a pas, le message que tu souhaite passer est-il compréhensible sans le son ? Car plusieurs utilisateur utilise leur smartphone dans les transport en commun ou dans des lieux plutôt bruyant couvrant complètement le son de leur mobile.
 * Utilises les Emotion. Afin d’améliorer ton expérience client, tes vidéos seront bien plus importantes si véhicule des émotions, en jouant sur l’humour, l’amour ou la peur par exemple.
 
-[comment-faire-une-video-verticale-visuel-clef-e1561212634347.jpg](https://www.eficiens.com/assets/uploads/2019/06/comment-faire-une-video-verticale-visuel-clef-e1561212634347.jpg)
+![](/images/comment-faire-une-video-verticale-visuel-clef-e1561212634347.jpg)
 
-**## Passons aux matériels que tu peux utiliser pour créer tes propres vidéos ?**
+**Passons aux matériels que tu peux utiliser pour créer tes propres vidéos ?**
 
 Pour débuter, pas besoin de t’équiper comme une production hollywoodienne. Tu auras besoin d’un minimum mais je suis presque certain que tu en as en ta possessions :
 
@@ -156,17 +158,17 @@ Pour débuter, pas besoin de t’équiper comme une production hollywoodienne. T
 * de l’éclairage si tournage en intérieur.
 * un fond vert si tu souhaites faire de l’incrustation
 
-[e4bdac536446523a9a064963f3c225a6.jpg](https://static.sonovente.com/img/front/cms/e4bdac536446523a9a064963f3c225a6.jpg)
+![](/images/e4bdac536446523a9a064963f3c225a6.jpg)
 
-**### Quels sont les logiciels à utiliser ?**
+**Quels sont les logiciels à utiliser ?**
 
 Rassures toi, tous les logiciels ne sont pas payant et certain sont même gratuit et plutôt très performant. Tu peux les télécharger gratuitement sur ton smartphone, comme iMovie sur apple ou Movie Maker studio sur windows.
 
 Si tu es plus expérimenté, je t’invite as te diriger vers c’est deux logiciel professionnelle et complet en réalisation utiliser par les grande production : Adobe Première et Final Cut Pro pour le montage vidéo, et Adobe After Effect pour les effets spéciaux.
 
-[bdw-logiciel-montage-video-5-800x400.jpg](https://digital-learning-academy.com/wp-content/uploads/2019/03/bdw-logiciel-montage-video-5-800x400.jpg)
+![](/images/bdw-logiciel-montage-video-5-800x400.jpg)
 
-**## Conclusions**
+**Conclusions**
 
 Tu auras donc compris que la vidéo et un outils très percutant mais cela demande une stratégies bien travaillée en amont et quelques connaissances sur le sujet.
 
