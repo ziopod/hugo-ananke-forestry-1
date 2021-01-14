@@ -6,7 +6,6 @@ menu:
   main:
     name: Accueil
     weight: 2
-draft: true
 
 ---
 Véritable passionné en création de vidéos (Filmmaker) dans les médias et les réseaux sociaux à travers la communication digitale.  
