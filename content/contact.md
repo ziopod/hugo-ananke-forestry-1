@@ -7,7 +7,6 @@ type: page
 menu:
   main:
     weight: 4
-draft: true
 
 ---
 Afin de Réaliser un Projet Vidéo, Nous vous invitons à remplir ce formulaire pour que l'on vous contact rapidement.
